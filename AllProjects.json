@@ -1,0 +1,63 @@
+[
+    {
+        "id": "01",
+        "title": "Travel Trek",
+        "short_discription": "This website is made for those who love to travel and need a tourist guide.",
+        "project_info": "Travel trek website is a travel guide's own website where he can guide tourists and show the places where his services are mentioned and the reviews of those he has guided before are shown here and users can give their own opinion here.",
+        "key_points": {
+            "a": "This website is a personal website of a travel guide.",
+            "b": "If the user goes to the add section page, new services can be added with the information of that service.",
+            "c": "Here, those who have taken a tour with a tourist guide can share their personal opinions and see the opinions of others.",
+            "d": "Can update his reviews from My Review Route"
+        },
+        "technologies": "ReactJS, Nodejs, tailwind, firebase, express, JWT, Context API.",
+        "livelink": "https://travel-track-e71c7.web.app",
+        "Repo_link": "https://github.com/Alok52682/travel-trek-clint.git",
+        "images": {
+            "demo1": "https://i.ibb.co/RQmFm6P/Screenshot-2022-12-11-at-12-56-26-PM.png",
+            "demo2": "https://i.ibb.co/HDHGSbK/Screenshot-2022-12-11-at-12-57-29-PM.png",
+            "demo3": "https://i.ibb.co/nQ8VVY6/Screenshot-2022-12-11-at-12-58-25-PM.png"
+        }
+    },
+    {
+        "id": "02",
+        "title": "Edule",
+        "short_discription": "This website is an E-learning website where users can easily develop their skills at home.",
+        "project_info": "This website is a learning website where people can develop their skills on various subjects.Email and Google are used for login here with which users can sign up their account.",
+        "key_points": {
+            "a": "I have used the private route here where the user cannot purchase any course unless he is logged in.",
+            "b": "The courses are provided category-wise on the website.",
+            "c": "Full responsive and dark mode.",
+            "d": "Here you can download the course details through PDF before purchasing the course.",
+            "e": "User Can Create an Account with email, google."
+        },
+        "technologies": "React, React router, Tailwind, Express, Firebase, JWT, ContextAPI.",
+        "livelink": "https://b610-learning-platform-c-9ac6f.web.app/",
+        "Repo_link": "https://github.com/Alok52682/edule-clint-side.git",
+        "images": {
+            "demo1": "https://i.ibb.co/kDZM3X2/Screenshot-2022-12-11-at-1-18-00-PM.png",
+            "demo2": "https://i.ibb.co/yFQHj1F/Screenshot-2022-12-11-at-1-18-51-PM.png",
+            "demo3": "https://i.ibb.co/4Y06hVP/Screenshot-2022-12-11-at-1-19-56-PM.png"
+        }
+    },
+    {
+        "id": "03",
+        "title": "BookLy",
+        "short_discription": "Bookly is an used book resale reselling website where users can buy and sell their old books.",
+        "project_info": "This website is designed for three types of users where the admin user will be able to advertise various types of books and the user will be able to do and the admin will control everything.",
+        "key_points": {
+            "a": "This website is made for three types of users admin seller and buyer.",
+            "b": "Admin can view each user, and delete them from this website, the buyer can buy and seller can sell used books.",
+            "c": "After clicking on the user dashboard, if he is a buyer, he can see all his orders; if he is a seller, he can see all his book ads on this website.",
+            "d": "I used context API to handle the global state and react hot toast for alerts."
+        },
+        "technologies": "HTML, CSS, JavaScript, ReactJs, Firebase, Stripe, Environment Variables, React-Hot_toast NodeJs, ExpressJs, Dotenv, JWT, MongoDB, Vercel.",
+        "livelink": "https://bookly-34e69.web.app/",
+        "Repo_link": "https://github.com/Alok52682/bookly-clint.git",
+        "images": {
+            "demo1": "https://i.ibb.co/PxGbpxt/screencapture-bookly-34e69-web-app-2022-12-11-14-51-48.png",
+            "demo2": "https://i.ibb.co/VBfNX1B/screencapture-bookly-34e69-web-app-category-637efedcee83db2080496820-2022-12-11-14-54-46.png",
+            "demo3": "https://i.ibb.co/KcP1f9T/screencapture-bookly-34e69-web-app-dashboard-myorders-2022-12-11-14-55-12.png"
+        }
+    }
+]
