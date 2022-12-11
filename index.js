@@ -8,7 +8,7 @@ const port = process.env.PORT || 4000;
 app.use(cors());
 
 app.get('/', async (req, res) => {
-    res.send('server is running');
+    res.send('My portfolio server is running');
 })
 app.get('/projects/:id', (req, res) => {
     const id = parseInt(req.params.id);
